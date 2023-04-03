@@ -1,0 +1,15 @@
+[submodule "extensions/enhanced-img2img"]
+	path = extensions/enhanced-img2img
+	url = https://github.com/OedoSoldier/enhanced-img2img
+[submodule "extensions/sd-webui-controlnet"]
+	path = extensions/sd-webui-controlnet
+	url = https://github.com/Mikubill/sd-webui-controlnet
+[submodule "extensions/a1111-sd-webui-tagcomplete"]
+	path = extensions/a1111-sd-webui-tagcomplete
+	url = https://github.com/DominikDoom/a1111-sd-webui-tagcomplete
+[submodule "extensions/stable-diffusion-webui-composable-lora"]
+	path = extensions/stable-diffusion-webui-composable-lora
+	url = https://github.com/opparco/stable-diffusion-webui-composable-lora
+[submodule "extensions/stable-diffusion-webui-two-shot"]
+	path = extensions/stable-diffusion-webui-two-shot
+	url = https://github.com/opparco/stable-diffusion-webui-two-shot
