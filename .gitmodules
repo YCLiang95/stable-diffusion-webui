@@ -15,28 +15,28 @@
 	url = https://github.com/opparco/stable-diffusion-webui-two-shot
 [submodule "extensions/a1111-sd-webui-lycoris"]
 	path = extensions/a1111-sd-webui-lycoris
-	url = https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris
+	url = F:\\AIGC\\stable-diffusion-webui\\extensions\\a1111-sd-webui-lycoris
 [submodule "extensions/sd-dynamic-prompting"]
 	path = extensions/sd-dynamic-prompting
-	url = https://github.com/adieyal/sd-dynamic-prompting
+	url = F:\\AIGC\\stable-diffusion-webui\\extensions\\sd-dynamic-prompting
 [submodule "extensions/sd-dynamic-thresholding"]
 	path = extensions/sd-dynamic-thresholding
-	url = https://github.com/mcmonkeyprojects/sd-dynamic-thresholding
+	url = F:\\AIGC\\stable-diffusion-webui\\extensions\\sd-dynamic-thresholding
 [submodule "extensions/sd-infinity-grid-generator-script"]
 	path = extensions/sd-infinity-grid-generator-script
-	url = https://github.com/mcmonkeyprojects/sd-infinity-grid-generator-script
+	url = F:\\AIGC\\stable-diffusion-webui\\extensions\\sd-infinity-grid-generator-script
 [submodule "extensions/multidiffusion-upscaler-for-automatic1111"]
 	path = extensions/multidiffusion-upscaler-for-automatic1111
-	url = https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111
+	url = F:\\AIGC\\stable-diffusion-webui\\extensions\\multidiffusion-upscaler-for-automatic1111
 [submodule "extensions/ABG_extension"]
 	path = extensions/ABG_extension
-	url = https://github.com/KutsuyaYuki/ABG_extension
+	url = F:\\AIGC\\stable-diffusion-webui\\extensions\\ABG_extension
 [submodule "extensions/openpose-editor"]
 	path = extensions/openpose-editor
-	url = https://github.com/fkunn1326/openpose-editor
+	url = F:\\AIGC\\stable-diffusion-webui\\extensions\\openpose-editor
 [submodule "extensions/sd-extension-aesthetic-scorer"]
 	path = extensions/sd-extension-aesthetic-scorer
-	url = https://github.com/vladmandic/sd-extension-aesthetic-scorer
+	url = F:\\AIGC\\stable-diffusion-webui\\extensions\\sd-extension-aesthetic-scorer
 [submodule "extensions/stable-diffusion-webui-images-browser"]
 	path = extensions/stable-diffusion-webui-images-browser
-	url = https://github.com/AlUlkesh/stable-diffusion-webui-images-browser
+	url = F:\\AIGC\\stable-diffusion-webui\\extensions\\stable-diffusion-webui-images-browser
