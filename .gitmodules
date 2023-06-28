@@ -40,3 +40,6 @@
 [submodule "extensions/stable-diffusion-webui-images-browser"]
 	path = extensions/stable-diffusion-webui-images-browser
 	url = F:\\AIGC\\stable-diffusion-webui\\extensions\\stable-diffusion-webui-images-browser
+[submodule "extensions/adetailer"]
+	path = extensions/adetailer
+	url = https://github.com/Bing-su/adetailer
