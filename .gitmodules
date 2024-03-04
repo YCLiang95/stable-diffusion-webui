@@ -13,9 +13,6 @@
 [submodule "extensions/stable-diffusion-webui-two-shot"]
 	path = extensions/stable-diffusion-webui-two-shot
 	url = https://github.com/opparco/stable-diffusion-webui-two-shot
-[submodule "extensions/a1111-sd-webui-lycoris"]
-	path = extensions/a1111-sd-webui-lycoris
-	url = F:\\AIGC\\stable-diffusion-webui\\extensions\\a1111-sd-webui-lycoris
 [submodule "extensions/sd-dynamic-prompting"]
 	path = extensions/sd-dynamic-prompting
 	url = F:\\AIGC\\stable-diffusion-webui\\extensions\\sd-dynamic-prompting
@@ -43,3 +40,6 @@
 [submodule "extensions/adetailer"]
 	path = extensions/adetailer
 	url = https://github.com/Bing-su/adetailer
+[submodule "extensions/model-keyword"]
+	path = extensions/model-keyword
+	url = https://github.com/mix1009/model-keyword
